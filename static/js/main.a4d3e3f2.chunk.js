@@ -1,0 +1,2 @@
+(this.webpackJsonpEvoFintechTestTask=this.webpackJsonpEvoFintechTestTask||[]).push([[0],{14:function(e,t,c){"use strict";c.r(t);var n=c(3),s=c(4),o=(c(0),c(1)),r=function(){return Object(o.jsx)("h1",{children:"Evo"})};Object(n.createRoot)(document.getElementById("root")).render(Object(o.jsx)(s.a,{children:Object(o.jsx)(r,{})}))}},[[14,1,2]]]);
+//# sourceMappingURL=main.a4d3e3f2.chunk.js.map
